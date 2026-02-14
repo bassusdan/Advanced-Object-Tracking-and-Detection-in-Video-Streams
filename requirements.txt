@@ -1,0 +1,9 @@
+torch
+torchvision
+albumentations
+filterpy
+motmetrics
+opencv-python-headless
+matplotlib
+numpy
+scipy
