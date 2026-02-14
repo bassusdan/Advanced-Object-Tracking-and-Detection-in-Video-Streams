@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+*.venv
+env/
+venv/
+build/
+dist/
+*.whl
+*.log
+*.pot
+*.mo
+*.coverage
+*.mypy_cache/
+*.pytest_cache/
+*.ipynb_checkpoints/
+*.sqlite3
+*.db
+*.DS_Store
+*.idea/
+*.vscode/
+*.env/
+*.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tiff
+*.svg
+*.ico
+
+# Other
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# VS Code
+.vscode/
